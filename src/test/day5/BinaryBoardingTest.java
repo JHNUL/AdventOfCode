@@ -1,5 +1,8 @@
+package test.day5;
+
 import static org.junit.Assert.assertTrue;
 import org.junit.Test;
+import main.day5.BinaryBoarding;
 
 public class BinaryBoardingTest {
 

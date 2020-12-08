@@ -1,3 +1,5 @@
+package test.day6;
+
 import static org.junit.Assert.assertTrue;
 import org.junit.Test;
 
